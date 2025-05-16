@@ -1,0 +1,6 @@
+opencv-python
+numpy
+apriltag
+redis
+scipy
+pyyaml
