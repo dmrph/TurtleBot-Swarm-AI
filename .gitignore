@@ -1,0 +1,6 @@
+point_data/
+**/.venv/
+**/__pycache__/
+**/.vscode/
+config.json
+*.pyc
