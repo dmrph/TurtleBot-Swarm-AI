@@ -2,7 +2,6 @@
 
 Mission: Program a group of TurtleBot3 Burger-model robots to operate in a swarm-style formation to find predetermined charms while avoiding obstacles. The TurtleBots are equipped with a Raspberry Pi, LiDAR and ultrasonic sensors, a web camera for computer vision, and an LCD display. The TurtleBots work with an AI agents system, where different components run asynchronously to perform the multitude of tasks that need to run together.
 
-Note: As of April 9, 2025, the TurtleBots are still equipped with backward-facing motors. Please remember this and set your forward and backward velocities accordingly.
 
 ## Swarm Algorithm
 
